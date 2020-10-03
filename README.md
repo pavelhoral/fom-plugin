@@ -1,8 +1,8 @@
-# F4SE Plugin
+# Fallout: Miami SE Plugin
 
 This is playground repository for F4SE plugin for Fallout: Miami extensions (unofficial at the moment).
 
-I want this README to serve sort of a notebook or diary about my journey on implementing my first F4SE plugin.
+I want this README to serve as a sort of a notebook or diary about my journey on implementing my first F4SE plugin.
 
 ## High Level Goals
 
@@ -26,3 +26,10 @@ Unfortunately I am far from a skilled C++ programmer and/or Windows programmer s
 * how to peek inside F4 memory (e.g. where is notification queue)
 * how to write compact F4SE plugin
 
+## Debugging Fallout 4
+
+TODO: one of my first tasks was to learn how to debug f4... papyrus debugger, F4SE build, VS2019, ...
+
+## Creating F4SE Plugin
+
+TODO: best way to create plugin - using F4SE repo (based on SSE example) vs. using vcpkg
